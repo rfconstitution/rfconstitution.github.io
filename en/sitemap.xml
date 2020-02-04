@@ -3,211 +3,211 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/docs/example/</loc>
+    <loc>https://rfconstitution.github.io/docs/example/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/with-toc/</loc>
+    <loc>https://rfconstitution.github.io/docs/example/table-of-contents/with-toc/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/without-toc/</loc>
+    <loc>https://rfconstitution.github.io/docs/example/table-of-contents/without-toc/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/creating-a-new-theme/</loc>
+    <loc>https://rfconstitution.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/migrate-from-jekyll/</loc>
+    <loc>https://rfconstitution.github.io/posts/migrate-from-jekyll/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/</loc>
+    <loc>https://rfconstitution.github.io/docs/example/table-of-contents/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/2nd/</loc>
+    <loc>https://rfconstitution.github.io/docs/example/2nd/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://rfconstitution.github.io/posts/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/goisforlovers/</loc>
+    <loc>https://rfconstitution.github.io/posts/goisforlovers/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://example.com/cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/Development/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/development/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/hugoisforlovers/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/go/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/golang/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/golang/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://rfconstitution.github.io/categories/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://rfconstitution.github.io/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/"
+                href="https://rfconstitution.github.io/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://rfconstitution.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>https://rfconstitution.github.io/categories/Development/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://rfconstitution.github.io/tags/development/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/2nd/3rd/4th/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/example/2nd/3rd/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/example/hidden/</loc>
+    <loc>https://rfconstitution.github.io/posts/hugoisforlovers/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/</loc>
+    <loc>https://rfconstitution.github.io/tags/go/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/buttons/</loc>
-    <priority>0</priority>
+    <loc>https://rfconstitution.github.io/tags/golang/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/columns/</loc>
-    <priority>0</priority>
+    <loc>https://rfconstitution.github.io/categories/golang/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/expand/</loc>
-    <priority>0</priority>
+    <loc>https://rfconstitution.github.io/tags/hugo/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/hints/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/shortcodes/katex/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/shortcodes/mermaid/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/shortcodes/tabs/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
+    <loc>https://rfconstitution.github.io/tags/</loc>
     <lastmod>2020-02-03T22:32:43+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://rfconstitution.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/"
+                href="https://rfconstitution.github.io/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://rfconstitution.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/tags/templates/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/tags/themes/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/example/2nd/3rd/4th/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/example/2nd/3rd/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/example/hidden/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/buttons/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/columns/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/expand/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/hints/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/katex/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/mermaid/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/shortcodes/tabs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rfconstitution.github.io/</loc>
+    <lastmod>2020-02-03T22:32:43+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://rfconstitution.github.io/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://rfconstitution.github.io/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rfconstitution.github.io/"
                 />
   </url>
   
